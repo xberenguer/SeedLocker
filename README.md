@@ -18,6 +18,9 @@ A Tamper Evident Container for SeedSigner
 
 Note: This project is still a work in progress. It is open source and in the public domain, so anyone is welcome to contribute!
 
+designed by gustavopoa
+commissioned by 🌠🌌.ws
+
 ![IMG_20250214_170408](https://github.com/user-attachments/assets/1c9332a9-18b2-40df-98da-4197c91410c0)
 ![IMG_20250214_170312](https://github.com/user-attachments/assets/5753567e-b440-497c-9191-0ed3ff7ed966)
 ![IMG_20250220_015850](https://github.com/user-attachments/assets/94bbca10-9ac1-4d6c-bdd9-11f959edfd28)
