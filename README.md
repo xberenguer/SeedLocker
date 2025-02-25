@@ -1,5 +1,5 @@
 # SeedLocker
-SeedLocker - A Tamper Evident Container for SeedSigner
+A Tamper Evident Container for SeedSigner
 ![IMG_20250222_115829](https://github.com/user-attachments/assets/6756b2f7-babc-4025-abf2-8a21665f60d0)
 
 **Overview**
