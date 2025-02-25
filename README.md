@@ -23,5 +23,5 @@ Note: This project is still a work in progress. It is open source and in the pub
 ![IMG_20250220_015850](https://github.com/user-attachments/assets/94bbca10-9ac1-4d6c-bdd9-11f959edfd28)
 ![IMG_20250220_015915](https://github.com/user-attachments/assets/33d2df46-ce13-4a83-8511-1110d4a854b6)
 !![IMG_20250222_120531](https://github.com/user-attachments/assets/a12b806c-47b2-4f1b-984d-731c7184a1c4)
-[IMG_20250222_115920](https://github.com/user-attachments/assets/4a9eecfe-1ff5-4334-a74a-1e4282915206)
+![IMG_20250222_115920](https://github.com/user-attachments/assets/c7d1e55a-5a5e-4e93-9feb-71eb258a2453)
 ![IMG_20250222_115829](https://github.com/user-attachments/assets/66294c1d-0e41-48d5-add2-7210acd76ba7)
