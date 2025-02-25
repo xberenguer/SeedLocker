@@ -1,6 +1,5 @@
 # SeedLocker
 SeedLocker - A Tamper Evident Container for SeedSigner
-![IMG_20250222_120531](https://github.com/user-attachments/assets/efc22010-51c1-4c63-b5a4-afd6c1992902)
 ![IMG_20250222_115829](https://github.com/user-attachments/assets/6756b2f7-babc-4025-abf2-8a21665f60d0)
 
 **Overview**
@@ -8,7 +7,9 @@ SeedLocker is designed to ensure the integrity of the components and software in
 
  **Materials used**
 2mm no hole beads: https://aliexpress.com/item/1005005109249326.html
+
 95A TPU: https://aliexpress.com/item/1005005932703344.html
+
 72D TPU: https://aliexpress.com/item/1005006684814458.html
 
 **Printing Instructions**
