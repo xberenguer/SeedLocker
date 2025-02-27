@@ -15,7 +15,7 @@ A Tamper Evident Container for SeedSigner
 - The container is filled with a ratio of 1 red bead, 2 black beads, and 6 white beads, totaling approximately 12g.
 
 **Video Showcase**
-https://github.com/user-attachments/assets/591b7467-79ee-483a-ad4c-2a15a1c9a6f4
+- https://github.com/user-attachments/assets/591b7467-79ee-483a-ad4c-2a15a1c9a6f4
 
 Note: This project is still a work in progress. It is open source and in the public domain, so anyone is welcome to contribute!
 
