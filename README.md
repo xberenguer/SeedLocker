@@ -3,7 +3,7 @@ A Tamper Evident Container for SeedSigner
 ![IMG_20250222_115829](https://github.com/user-attachments/assets/6756b2f7-babc-4025-abf2-8a21665f60d0)
 
 **Overview**
-- SeedLocker is designed to ensure the integrity of the components and software in your SeedSigner. This reusable tamper-evident container features a double screw lid that securely locks the beads in place, creating a unique pattern each time the lid is twisted
+- SeedLocker is designed to ensure the integrity of the hardware and software in your SeedSigner. This reusable tamper-evident container features a double screw lid that securely locks the beads in place, creating a unique pattern each time the lid is twisted
 
  **Materials used**
 - 2mm no hole beads: https://aliexpress.com/item/1005005109249326.html
