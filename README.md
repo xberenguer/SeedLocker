@@ -30,10 +30,18 @@ Note: This project is still a work in progress. It is open source and in the pub
 designed by gustavopoa</br>
 commissioned by 🌠🌌.ws
 
-![IMG_20250214_170408](https://github.com/user-attachments/assets/1c9332a9-18b2-40df-98da-4197c91410c0)
-![IMG_20250214_170312](https://github.com/user-attachments/assets/5753567e-b440-497c-9191-0ed3ff7ed966)
-![IMG_20250222_120531](https://github.com/user-attachments/assets/a12b806c-47b2-4f1b-984d-731c7184a1c4)
-![IMG_20250222_115920](https://github.com/user-attachments/assets/c7d1e55a-5a5e-4e93-9feb-71eb258a2453)
-![IMG_20250220_015850](https://github.com/user-attachments/assets/94bbca10-9ac1-4d6c-bdd9-11f959edfd28)
-![IMG_20250220_015915](https://github.com/user-attachments/assets/33d2df46-ce13-4a83-8511-1110d4a854b6)
+![20251104_011039 (1)](https://github.com/user-attachments/assets/492df3a4-b6fe-403b-9344-98abfe341aee)
+![20251105_073244](https://github.com/user-attachments/assets/8546efac-3de3-466f-9d86-9eecfa590b7e)
+![20251101_185743](https://github.com/user-attachments/assets/5d54f646-5178-4f69-a253-a4e368bdf8ac)
+![20251101_020459](https://github.com/user-attachments/assets/fe6899c6-4bb1-4104-a286-bab602d99302)
+![20251030_201010](https://github.com/user-attachments/assets/a747cc9a-5f5e-4ced-8063-cc55d426bc9c)
+![2025-09-19-032335](https://github.com/user-attachments/assets/693fb585-e16a-4aad-8f74-25b4b9c16507)
+![photo_2025-10-12-194747](https://github.com/user-attachments/assets/2811cb2c-c04e-4f2f-b303-41372be5005f)
+![photo_2025-10-12-194747-1](https://github.com/user-attachments/assets/8d512022-e5ee-464a-b6a6-0b9dab4f99c1)
+![photo_2025-10-12-194801](https://github.com/user-attachments/assets/38c0fd66-59be-4860-b979-b34d9731e1a8)
+![photo_2025-10-12-194750-1](https://github.com/user-attachments/assets/9424340b-e998-4f98-a6f5-9d2af39ae32a)
+![photo_2025-10-12-194751](https://github.com/user-attachments/assets/c00281fc-eb03-4014-8f2e-b6a8ed9750a6)
+![photo_2025-10-12-194752](https://github.com/user-attachments/assets/8f9f479e-9f35-409f-b800-48a2ee3947fd)
+![photo_2025-10-12-194754](https://github.com/user-attachments/assets/495b3ad1-5c92-478f-b176-1944868acd4d)
+![photo_2025-10-12-194752](https://github.com/user-attachments/assets/fec55461-4a5b-4a01-a294-940985410641)
 
