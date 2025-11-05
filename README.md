@@ -1,6 +1,7 @@
 # SeedLocker
-A Reusable Tamper Evident Container for SeedSigner [...and other stuff...]
 ![20251030_221532](https://github.com/user-attachments/assets/18766433-470a-4b9b-9beb-d704387668cd)
+
+You can also find the files here: https://www.printables.com/model/1207482-seedlocker-a-reusable-tamper-evident-container-for/files
 
 **Overview**
 - SeedLocker is a reusable tamper-evident solution. It features a mechanism in the lid that keeps beads securely locked in place when the jar is closed, that get easily disrupted when the cap is slightly twisted
