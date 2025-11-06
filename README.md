@@ -24,7 +24,7 @@ You can also find the files here: https://www.printables.com/model/1207482-seedl
 
 
 The Blink Comparison App by proninyaroslav can be useful for comparing the patterns
-https://github.com/proninyaroslav/blink-comparison/blob/HEAD/README.md
+- https://github.com/proninyaroslav/blink-comparison/blob/HEAD/README.md
 
 Note: This project is still a work in progress. It is open source and in the public domain, so anyone is welcome to contribute! Huge thanks to Seed for the addition of the V index on the lid
 
